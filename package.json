@@ -1,0 +1,15 @@
+{
+  "name": "pazguille-camera-action",
+  "description": "Camera-action is a component to ease camera (getusermedia) management.",
+  "version": "0.3",
+  "keywords": [
+    "camera",
+    "webcam",
+    "getusermedia",
+    "stream"
+  ],
+  "dependencies": {
+    "pazguille-jvent": "git://github.com/npmcomponent/pazguille-jvent.git"
+  },
+  "license": "MIT"
+}

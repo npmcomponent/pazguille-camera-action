@@ -1,7 +1,7 @@
 /**
  * Module dependencies.
  */
-var Jvent = require('jvent'),
+var Jvent = require('pazguille-jvent'),
     navigator = window.navigator,
     document = window.document,
     URL = window.URL || window.webkitURL || window.mozURL || window.msURL,
